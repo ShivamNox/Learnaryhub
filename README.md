@@ -1,5 +1,4 @@
 
-```markdown
 # LearnaryHub Dashboard
 
 Welcome to **LearnaryHub** — a professional dashboard application built for the Learnary platform: an EdTech‑/learning‑management interface where users can explore courses, manage schedules/notes, use a YouTube feed, chat, AI assistant, and more.
