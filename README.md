@@ -1,7 +1,3 @@
-Perfect 👍 Here’s your **final enhanced README** — now with your **contact information** for code access — and everything polished, structured, and presentation-ready for GitHub or a professional portfolio.
-
----
-
 # 🌐 LearnaryHub Dashboard
 
 Welcome to **LearnaryHub** — a modern and interactive **EdTech Dashboard Application** designed to simplify online learning and course management. Users can explore courses, manage schedules, take notes, chat, and use an **AI-powered assistant** for smart learning insights.
@@ -207,6 +203,3 @@ Email: **[shivamnox@gmail.com](mailto:shivamnox@gmail.com)**
 **🎓 LearnaryHub — Empowering Learners with AI-Driven Learning Tools.**
 *Explore. Learn. Evolve.* 🚀
 
----
-
-Would you like me to add **GitHub-style badges** (e.g., “Built with Node.js”, “AI-Assisted Frontend”, “MIT Licensed”, “Contact Developer”) at the top for a polished, professional README header?
