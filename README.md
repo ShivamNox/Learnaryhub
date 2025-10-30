@@ -8,7 +8,7 @@ Welcome to **LearnaryHub** — a next-generation **AI-powered EdTech Dashboard A
 
 ---
 
-## </> Contact for Code Access
+# </> Contact for Code Access
 
 📧 **For Code Access or Collaboration Inquiries:**
 **Email:** [shivamnox@gmail.com](mailto:shivamnox@gmail.com)
