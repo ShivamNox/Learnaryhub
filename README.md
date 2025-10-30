@@ -8,6 +8,14 @@ Welcome to **LearnaryHub** — a next-generation **AI-powered EdTech Dashboard A
 
 ---
 
+## </> Contact for Code Access
+
+📧 **For Code Access or Collaboration Inquiries:**
+**Email:** [shivamnox@gmail.com](mailto:shivamnox@gmail.com)
+🌐 **Portfolio:** [https://shivamnox.github.io/#contact](https://shivamnox.github.io/#contact)
+
+---
+
 ## 📚 Table of Contents
 
 * [Features](#features)
@@ -213,14 +221,6 @@ Please test and document your contributions before submitting.
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 📬 Contact
-
-📧 **For Code Access or Collaboration Inquiries:**
-**Email:** [shivamnox@gmail.com](mailto:shivamnox@gmail.com)
-🌐 **Portfolio:** [https://shivamnox.github.io/#contact](https://shivamnox.github.io/#contact)
 
 ---
 
